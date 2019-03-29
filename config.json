@@ -1,0 +1,7 @@
+{
+	"RemoteHost": ["localhost","www.pengyunhao.top"],
+	"imageListPath":"public/image/list.json",
+	"isAllowMultithreading":false,
+	"RemotePort":[80,443],
+	"debug":0
+}
